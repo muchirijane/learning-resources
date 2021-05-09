@@ -1,6 +1,6 @@
 ## Python learning resources
 
-Here are some python learning resources that will help you go master or advance your python skills. I have subdived them for those who want free resources or paid ones. I will keep updating the list but I hope this one helps in your journey.
+Here are some python learning resources that will help you go master or advance your python skills. I have subdivided them for those who want free resources or paid ones. I will keep updating the list but I hope this one helps in your journey.
 
 ### Free Resources
 
@@ -30,7 +30,7 @@ Here are some python learning resources that will help you go master or advance 
 
 #### [ 12) Python Tutorial - Python for Beginners 2020 by Programming With Mosh](https://www.youtube.com/watch?v=kqtD5dpn9C8)
 
-#### [ 13) Python Tutorial fro Absolute Beginners by CS Dojo](https://www.youtube.com/watch?v=Z1Yd7upQsXY&list=PLBZBJbE_rGRWeh5mIBhD-hhDwSEDxogDg)
+#### [ 13) Python Tutorial for Absolute Beginners by CS Dojo](https://www.youtube.com/watch?v=Z1Yd7upQsXY&list=PLBZBJbE_rGRWeh5mIBhD-hhDwSEDxogDg)
 
 #### [ 14) Python Tutorial for Beginners by Corey Schafer](https://www.youtube.com/watch?v=YYXdXT2l-Gg&list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU)
 
@@ -64,7 +64,7 @@ Here are some python learning resources that will help you go master or advance 
 
 #### [ 26) CodeNewbie Podcast has great espisodes on python](https://www.codenewbie.org/podcast)
 
-#### [ 27) Django Riffss](https://djangoriffs.com/)
+#### [ 27) Django Riffs](https://djangoriffs.com/)
 
 #### [ 28) The Real Python Podcast](https://realpython.com/podcasts/rpp/)
 
