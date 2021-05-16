@@ -96,3 +96,20 @@
 #### [Picography](https://picography.co/) - Gorgeous, High-Resolution, Free Photos. 
 
 #### [Reshot](https://www.reshot.com/) - Design freely with instant downloads and commercial licenses for over 25,000 high resolution photos.
+
+
+## Videos 
+
+### Free videos with high quality to improve the User Interface of your website. 
+
+#### [Coverr](https://coverr.co/) - Discover snow-capped mountains, dazzling urban jungles, and abstract twinkling lights, completely free for personal or commercial use.From b-roll footage that creates a seamless segue to the perfect background setting. 
+
+#### [Pixabay Videos](https://pixabay.com/videos/) - Thousands of free stock video clips & footage shared by our talented community.
+
+#### [Pexels Videos](https://www.pexels.com/videos/) - Best free stock videos shared by the community for both personal and commercial use. 
+
+#### [Mixkit](https://mixkit.co/free-stock-video/) - Extraordinary Free Stock Video Footage for you to use in your next video project, for free.
+
+#### [Life of vids](https://www.lifeofvids.com/all/) - Get free high quality videos for free. 
+
+#### [Mazwai Videos](https://mazwai.com/) - Mazwai was built with one simple aim: to provide free, high quality, cinematic style stock footage, that can be used in a wide-range of creative projects.
